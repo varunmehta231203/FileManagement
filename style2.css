@@ -1,0 +1,35 @@
+.font{
+  font-family: "Playwrite DE Grund", cursive;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-size: 20px;
+  font-style: normal;
+}
+.Cs_Sign{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sign{
+    width: 300px;
+    height: 500px;
+}
+h1{
+  font-family: "Ephesis", cursive;
+  font-weight: bolder;
+  font-size: 50px;
+  font-style: normal;
+  text-align: center;
+  padding-bottom: 30px;
+}
+button{
+    background-color: rgb(230, 255, 3) !important;
+    color: black !important; 
+}
+button:hover{
+    box-shadow: rgba(190, 226, 7, 0.4) 0px 2px 4px, rgba(187, 218, 9, 0.3) 0px 7px 13px -3px, rgba(236, 236, 236, 0.276) 0px -3px 0px inset;
+}
+.Google_signup{
+    background-color: white !important;
+}
